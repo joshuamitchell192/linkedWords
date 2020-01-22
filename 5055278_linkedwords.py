@@ -1,4 +1,4 @@
-from S5055278_DepthFirstSearch import DepthFirstSearch
+from depthFirstSearch import DepthFirstSearch
 from backtracking import Backtracking
 
 from collections import defaultdict
