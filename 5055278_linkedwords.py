@@ -1,5 +1,5 @@
 from S5055278_DepthFirstSearch import DepthFirstSearch
-from S5055278_Experimentation2 import Backtracking
+from backtracking import Backtracking
 
 from collections import defaultdict
 import time
